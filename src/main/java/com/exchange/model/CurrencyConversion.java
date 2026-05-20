@@ -74,4 +74,13 @@ public class CurrencyConversion {
 	private BigDecimal conversionMultiple;
 	private BigDecimal totalCalculagedAmount;
 	private BigDecimal quantity;
+	private String env;
+
+	public String getEnv() {
+		return env;
+	}
+
+	public void setEnv(String env) {
+		this.env = env;
+	}
 }
