@@ -1,1 +1,1 @@
-# currency-microservice
+# exchange-microservice
